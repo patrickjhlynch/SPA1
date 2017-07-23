@@ -44,5 +44,11 @@ p{
 }
 
 .image{
+	width: 30vw;
+}
+
+.textblurb{
+	float: right;
 	width: 50vw;
+	margin: auto;
 }
